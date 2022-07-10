@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections employee has given me the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -20,18 +20,16 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ## Election-Audit Resources
 
 - Data Source: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code, 1.69.0
+- Software: Python 3.7.6, Visual Studio Code: 1.69.0
 
 
 
 ## Election-Audit Results
 
-The analysis of the election show that:
-
-- There were 369,711 votes cast in the election.
+The analysis of the election show that there were **369,711** votes cast in the election.
 
 ### Results by County
-- The counties were:
+- Votes were cast in the following counties:
 	- Jefferson
 	- Denver
 	- Arapahoe 
@@ -41,7 +39,7 @@ The analysis of the election show that:
 	- 82.8% of votes (or 306,055 votes) were cast Denver County
 	- 6.7% of votes (or 24,801 votes) were cast Arapahoe County
 
-These results have been visualized in the pie chart below:
+<sub>These results have been visualized in the pie chart below.</sub>
 
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/Election_Analysis/raw/main/Resources/County_Votes_Summary.png">
@@ -63,7 +61,7 @@ These results have been visualized in the pie chart below:
 	- Diana DeGette received  73.8% of the vote and 272,892 votes.
 	- Raymon Anthony Doane received  3.1% of the vote and 11,606 votes.
 
-These results have been visualized in the pie chart below:
+<sub>These results have been visualized in the pie chart below.</sub>
 
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/Election_Analysis/raw/main/Resources/Candidate_Votes_Summary.png">
