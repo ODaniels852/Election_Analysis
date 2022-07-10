@@ -20,7 +20,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 ## Election-Audit Resources
 
 - Data Source: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code: 1.69.0
+- Software: Python 3.7.6, Visual Studio Code 1.69.0
 
 
 
@@ -51,7 +51,7 @@ The analysis of the election show that there were **369,711** votes cast in the 
 
 
 ### Results by Candidate
-- The candidates were:
+- The candidates for which votes were cast include:
 	- Charles Casper Stockham
 	- Diana DeGette
 	- Raymon Anthony Doane
