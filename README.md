@@ -44,6 +44,7 @@ These results have been visualized in the pie chart below:
 
 <picture>
  <source media="(prefers-color-scheme: light)" srcset=" https://github.com/ODaniels852/Election_Analysis/raw/main/Resources/County_Votes_Summary.png">
+<img alt=" Shows a pie chart displaying voting results in each county."/>
 </picture> 
 
 - The largest county turnout occurred in the county of:
@@ -63,6 +64,7 @@ These results have been visualized in the pie chart below:
 
 <picture>
  <source media="(prefers-color-scheme: light)" srcset=" https://github.com/ODaniels852/Election_Analysis/raw/main/Resources/Candidate_Votes_Summary.png">
+<img alt=" Shows a pie chart displaying voting results for each candidate."/>
 </picture> 
 
 - The winner of the election was:
