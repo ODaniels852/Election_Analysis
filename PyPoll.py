@@ -5,7 +5,7 @@
 # 4. The total number of votes each candidate won.
 # 5. The winner of the election based on popular vote.
 
-#---------------------------------------------------
+#-------------------------------------------------
 
 
 # Add our dependencies.
