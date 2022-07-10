@@ -30,6 +30,7 @@ The analysis of the election show that:
 
 - There were 369,711 votes cast in the election.
 
+### Results by County
 - The counties were:
 	- Jefferson
 	- Denver
@@ -47,9 +48,11 @@ These results have been visualized in the pie chart below:
  <img alt=" Shows a pie chart displaying voting results in each county."/>
 </picture> 
 
-- The largest county turnout occurred in the county of:
-	-Denver, from which 306,055 votes were cast (82.8% of the votes cast)
+**The largest county turnout occurred in the county of Denver, from which 306,055 votes were cast, representing 82.8% of the votes cast in this election.**
 
+
+
+### Results by Candidate
 - The candidates were:
 	- Charles Casper Stockham
 	- Diana DeGette
@@ -67,8 +70,7 @@ These results have been visualized in the pie chart below:
  <img alt=" Shows a pie chart displaying voting results for each candidate."/>
 </picture> 
 
-- The winner of the election was:
-	-Diana DeGette, who received 73.8% of the vote and 272,892 votes.
+**The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 votes.**
 
 ##  Election-Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
