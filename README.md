@@ -71,4 +71,10 @@ The analysis of the election show that there were **369,711** votes cast in the 
 **The winner of the election was Diana DeGette, who received 73.8% of the vote, or 272,892 votes.**
 
 ##  Election-Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+I'd propose that this script be used for any future election, with modifications as necessary. This script will be most useful when the data source of election results is provided in a csv file and with the same column composition (Ballot ID, County, Candidate). However, if different election data is provided, modifications will allow for successful audit of results. 
+For example, if the same data is provided but in a different order, like Ballot ID, Candidate, County, then the code can be changes as follows:
+<picture>
+ <source media="(prefers-color-scheme: light)" srcset=" https://github.com/ODaniels852/Election_Analysis/raw/main/Resources/ScriptModification_Example_1.png ">
+ <img alt=" Shows a pie chart displaying voting results for each candidate."/>
+</picture>
+Additionally, if the same data is provided, but a request was made for candidate results by county this can be achieved by adding the following script
