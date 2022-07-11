@@ -82,7 +82,7 @@ For example, if the same data is provided but in a different order, like Ballot 
 </picture>
 
 ### Example 2
-Additionally, if data is provided in the same format, but a new field was added before the candidate, like City, and voting results were requested for each city, new code could be added to mimic the code created for county results. Here’s are examples of some of the code that could be added below sections where this code is located for county information:
+Additionally, if data is provided in the same format, but a new field was added before the candidate, like City, and voting results were requested for each city, new code could be added to mimic the code created for county results. Below are examples of some of the code that could be added below sections where similar code is located for county information.
 
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/Election_Analysis/raw/main/Resources/ScriptModification_Example_2.png">
