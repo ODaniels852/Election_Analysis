@@ -75,7 +75,7 @@ I'd propose that this script be used for any future election, with modifications
 For example, if the same data is provided but in a different order, like Ballot ID, Candidate, County, then the code can be changes as follows:
 
 <picture>
- <source media="(prefers-color-scheme: light)" srcset=" https://github.com/ODaniels852/Election_Analysis/raw/main/Resources/ScriptModification_Example_1.png ">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/Election_Analysis/raw/main/Resources/ScriptModification_Example_1.png">
  <img alt=" Shows the required script change if county and candidate data were switched in the source file."/>
 </picture>
 
