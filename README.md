@@ -68,7 +68,7 @@ The analysis of the election show that there were **369,711** votes cast in the 
  <img alt=" Shows a pie chart displaying voting results for each candidate."/>
 </picture> 
 
-**The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 votes.**
+**The winner of the election was Diana DeGette, who received 73.8% of the vote, or 272,892 votes.**
 
 ##  Election-Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
